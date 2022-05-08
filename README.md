@@ -20,9 +20,8 @@ Moro na cidade de Ribeirão Preto e trabalho atualmente na empresa Isotec Sistem
 <a href = "mailto:gabriel.rp.sp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-carvalheiro-437a41239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<div align="center">
+<br>
+<div display: flex;>
   <a href="https://github.com/GabrielCarvalheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarvalheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarvalheiro&layout=compact&langs_count=7&theme=dracula"/>
