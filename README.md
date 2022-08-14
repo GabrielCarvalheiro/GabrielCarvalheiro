@@ -6,7 +6,7 @@ Moro na cidade de Ribeirão Preto e trabalho atualmente na empresa Isotec Sistem
 - 🔭 Atualmente estou trabalhando em analista de sistema.
 - 🌱 Atualmente estou aprendendo Eng. de software na UNAERP.
 - 📫 Como entrar em contato comigo: gabriel.rp.sp@gmail.com
-- ⚡ Curiosidade: Sei sobre hardware e jogos.
+- ⚡ Curiosidade: Conhecimento em manutenção de hardware.
 
 ### Estou aprendendo
   
