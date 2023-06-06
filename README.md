@@ -8,7 +8,7 @@ Moro na cidade de Ribeirão Preto e trabalho atualmente na empresa Isotec Sistem
 - 📫 Como entrar em contato comigo: gabriel.rp.sp@gmail.com
 - ⚡ Curiosidade: Conhecimento em manutenção de hardware.
 
-### Estou aprendendo
+### Conhecimentos
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 ##
